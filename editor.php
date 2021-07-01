@@ -1,4 +1,5 @@
 <?php
+//editor - create and edit templates 
 require_once(ABSPATH . 'wp-config.php');
 ?>
 <!DOCTYPE html>
