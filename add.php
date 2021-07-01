@@ -1,4 +1,5 @@
  <?php
+//main signature plugin file - without table wp_signature & wp_signature_variables - to do
 //include wp-config or wp-load.php
 $root = dirname(dirname(dirname(dirname(__FILE__))));
 if (file_exists($root . '/wp-load.php')) {
