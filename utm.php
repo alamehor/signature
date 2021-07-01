@@ -1,4 +1,6 @@
 <?
+
+//client page http://signature.klienci.org/blog/index.php/sample-page/
 require_once(ABSPATH . 'wp-config.php');
 ?>
 <!doctype html>
