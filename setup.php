@@ -1,5 +1,5 @@
 <?php
-//editor - create password and manage variables {{variable}}
+//editor - create password and manage variables {{variable}} http://signature.klienci.org/blog/wp-admin/admin.php?page=general-settings
 require_once ABSPATH . 'wp-config.php';
 include_once ABSPATH . "wp-includes/class-phpass.php";
 ?>
