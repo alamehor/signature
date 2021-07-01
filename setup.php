@@ -1,4 +1,5 @@
 <?php
+//editor - create password and manage variables {{variable}}
 require_once ABSPATH . 'wp-config.php';
 include_once ABSPATH . "wp-includes/class-phpass.php";
 ?>
