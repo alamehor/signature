@@ -5,6 +5,8 @@ Description: Plugin for signatures
 Author:MB
 Version: 0.1
  */
+
+//main signature plugin file - without table wp_signature & wp_signature_variables - to do
 add_action('admin_menu', 'test_plugin_setup_menu');
 
 function test_plugin_setup_menu()
