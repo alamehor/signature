@@ -1,5 +1,5 @@
 <?php
-//editor - create and edit templates 
+//editor - create and edit templates http://signature.klienci.org/blog/wp-admin/admin.php?page=signature-plugin
 require_once(ABSPATH . 'wp-config.php');
 ?>
 <!DOCTYPE html>
